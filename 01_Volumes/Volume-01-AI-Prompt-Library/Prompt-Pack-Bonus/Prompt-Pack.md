@@ -182,3 +182,150 @@ Choose one prompt you currently use with AI.
 Rewrite it using the six building blocks introduced in Chapter 2.
 
 Compare the original response with the improved response and note the differences.
+
+
+# Chapter 3 Prompt Pack
+# Prompt Frameworks
+
+## Introduction
+
+The following prompts demonstrate how each framework can be applied to real-world tasks. Customize the placeholders to fit your goals and projects.
+
+---
+
+# Prompt 1 — RTF
+
+**Purpose:** Write a blog article.
+
+Role:
+You are an experienced content writer.
+
+Task:
+Write a beginner-friendly blog article explaining [TOPIC].
+
+Format:
+Use headings, bullet points, and conclude with three key takeaways.
+
+> 💡 Customization Tip
+>
+> Replace the placeholder text with your own topic, audience, business, or project before submitting the prompt to your AI assistant.
+
+---
+
+# Prompt 2 — CRISPE
+
+Capacity:
+You are a senior business consultant.
+
+Role:
+Act as my strategic advisor.
+
+Insight:
+I am creating an online business that teaches beginners how to use AI.
+
+Statement:
+Develop a 90-day growth plan using free and low-cost marketing strategies.
+
+Personality:
+Professional, encouraging, and practical.
+
+Experiment:
+Suggest three different approaches ranked from easiest to most advanced.
+
+> 💡 Customization Tip
+>
+> Replace the placeholder text with your own topic, audience, business, or project before submitting the prompt to your AI assistant.
+
+---
+
+# Prompt 3 — Few-Shot Prompting
+
+Example 1
+
+Title:
+AI Saves Time
+
+Summary:
+AI helps automate repetitive tasks, allowing professionals to focus on higher-value work.
+
+---
+
+Example 2
+
+Title:
+AI Improves Creativity
+
+Summary:
+AI supports brainstorming and content generation by producing ideas quickly.
+
+---
+
+Now summarize the following article using the same format:
+
+[Paste article here]
+
+> 💡 Customization Tip
+>
+> Replace the placeholder text with your own topic, audience, business, or project before submitting the prompt to your AI assistant.
+
+---
+
+# Prompt 4 — Persona Prompting
+
+You are an experienced instructional designer.
+
+Help me create a beginner-friendly lesson on [TOPIC].
+
+Include:
+
+- Learning objectives
+- Activities
+- Discussion questions
+- Assessment ideas
+
+---
+
+> 💡 Customization Tip
+>
+> Replace the placeholder text with your own topic, audience, business, or project before submitting the prompt to your AI assistant.
+
+# Prompt 5 — Chain-of-Thought Prompting
+
+You are an experienced business strategist.
+
+Help me build a digital product business.
+
+Work through these steps:
+
+1. Identify a niche.
+2. Define the audience.
+3. Validate demand.
+4. Suggest products.
+5. Recommend pricing.
+6. Create a 90-day launch plan.
+
+Explain your reasoning at each step.
+
+> 💡 Customization Tip
+>
+> Replace the placeholder text with your own topic, audience, business, or project before submitting the prompt to your AI assistant.
+
+---
+
+# Build Your Own Prompt
+
+Framework:
+
+______________________
+
+Goal:
+
+______________________
+
+Prompt:
+
+________________________________________________
+
+________________________________________________
+
+________________________________________________

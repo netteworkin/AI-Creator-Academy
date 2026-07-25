@@ -117,3 +117,49 @@ Prompt Frameworks
 - Chain of Thought
 - Few-Shot Prompting
 - Persona Prompting
+
+
+Slide 1
+Chapter Title
+
+Slide 2
+Learning Objectives
+
+Slide 3
+What Is a Prompt Framework?
+
+Slide 4
+RTF
+
+Slide 5
+CRISPE
+
+Slide 6
+Few-Shot
+
+Slide 7
+Persona
+
+Slide 8
+Chain-of-Thought
+
+Slide 9
+Framework Comparison
+
+Slide 10
+Choosing the Right Framework
+
+Slide 11
+Common Mistakes
+
+Slide 12
+Business Applications
+
+Slide 13
+Practice Exercise
+
+Slide 14
+Key Takeaways
+
+Slide 15
+Questions & Discussion
